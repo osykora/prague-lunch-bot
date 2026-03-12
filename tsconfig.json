@@ -7,8 +7,9 @@
     "strict": true,
     "outDir": "dist",
     "rootDir": "src",
+    "skipLibCheck": true,
     "lib": [
-      "ES2021.String",
+      "ES2021.String"
     ]
   }
 }
